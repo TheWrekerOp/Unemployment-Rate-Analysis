@@ -1,0 +1,1251 @@
+year,state,state_name,region,unemp_rate
+2000,AL,Alabama,South,7.37
+2001,AL,Alabama,South,4.17
+2002,AL,Alabama,South,4.87
+2003,AL,Alabama,South,5.39
+2004,AL,Alabama,South,3.6
+2005,AL,Alabama,South,4.73
+2006,AL,Alabama,South,4.71
+2007,AL,Alabama,South,2.26
+2008,AL,Alabama,South,7.12
+2009,AL,Alabama,South,8.3
+2010,AL,Alabama,South,7.64
+2011,AL,Alabama,South,7.1
+2012,AL,Alabama,South,6.23
+2013,AL,Alabama,South,4.25
+2014,AL,Alabama,South,4.08
+2015,AL,Alabama,South,2.26
+2016,AL,Alabama,South,5.17
+2017,AL,Alabama,South,4.51
+2018,AL,Alabama,South,4.72
+2019,AL,Alabama,South,3.51
+2020,AL,Alabama,South,12.65
+2021,AL,Alabama,South,5.91
+2022,AL,Alabama,South,3.61
+2023,AL,Alabama,South,7.1
+2024,AL,Alabama,South,4.02
+2000,AK,Alaska,West,3.18
+2001,AK,Alaska,West,6.36
+2002,AK,Alaska,West,4.44
+2003,AK,Alaska,West,3.99
+2004,AK,Alaska,West,6.29
+2005,AK,Alaska,West,2.76
+2006,AK,Alaska,West,5.55
+2007,AK,Alaska,West,2.33
+2008,AK,Alaska,West,4.93
+2009,AK,Alaska,West,6.02
+2010,AK,Alaska,West,10.59
+2011,AK,Alaska,West,9.78
+2012,AK,Alaska,West,5.22
+2013,AK,Alaska,West,5.87
+2014,AK,Alaska,West,4.36
+2015,AK,Alaska,West,5.28
+2016,AK,Alaska,West,3.55
+2017,AK,Alaska,West,2.28
+2018,AK,Alaska,West,2.15
+2019,AK,Alaska,West,6.4
+2020,AK,Alaska,West,13.27
+2021,AK,Alaska,West,6.19
+2022,AK,Alaska,West,3.66
+2023,AK,Alaska,West,6.74
+2024,AK,Alaska,West,4.55
+2000,AZ,Arizona,West,5.56
+2001,AZ,Arizona,West,5.28
+2002,AZ,Arizona,West,3.66
+2003,AZ,Arizona,West,6.35
+2004,AZ,Arizona,West,5.48
+2005,AZ,Arizona,West,7.26
+2006,AZ,Arizona,West,5.04
+2007,AZ,Arizona,West,3.0
+2008,AZ,Arizona,West,6.34
+2009,AZ,Arizona,West,10.67
+2010,AZ,Arizona,West,8.87
+2011,AZ,Arizona,West,6.95
+2012,AZ,Arizona,West,4.66
+2013,AZ,Arizona,West,4.01
+2014,AZ,Arizona,West,4.87
+2015,AZ,Arizona,West,3.58
+2016,AZ,Arizona,West,7.32
+2017,AZ,Arizona,West,4.78
+2018,AZ,Arizona,West,5.32
+2019,AZ,Arizona,West,8.64
+2020,AZ,Arizona,West,13.2
+2021,AZ,Arizona,West,6.24
+2022,AZ,Arizona,West,5.5
+2023,AZ,Arizona,West,6.02
+2024,AZ,Arizona,West,4.67
+2000,AR,Arkansas,South,3.21
+2001,AR,Arkansas,South,6.32
+2002,AR,Arkansas,South,4.37
+2003,AR,Arkansas,South,5.38
+2004,AR,Arkansas,South,4.78
+2005,AR,Arkansas,South,5.16
+2006,AR,Arkansas,South,7.43
+2007,AR,Arkansas,South,7.89
+2008,AR,Arkansas,South,7.44
+2009,AR,Arkansas,South,9.07
+2010,AR,Arkansas,South,10.39
+2011,AR,Arkansas,South,8.2
+2012,AR,Arkansas,South,6.25
+2013,AR,Arkansas,South,4.53
+2014,AR,Arkansas,South,5.23
+2015,AR,Arkansas,South,8.49
+2016,AR,Arkansas,South,6.47
+2017,AR,Arkansas,South,4.7
+2018,AR,Arkansas,South,4.5
+2019,AR,Arkansas,South,5.38
+2020,AR,Arkansas,South,11.62
+2021,AR,Arkansas,South,7.11
+2022,AR,Arkansas,South,2.98
+2023,AR,Arkansas,South,5.69
+2024,AR,Arkansas,South,4.14
+2000,CA,California,West,7.08
+2001,CA,California,West,5.76
+2002,CA,California,West,7.31
+2003,CA,California,West,5.06
+2004,CA,California,West,5.2
+2005,CA,California,West,5.77
+2006,CA,California,West,6.52
+2007,CA,California,West,6.15
+2008,CA,California,West,5.1
+2009,CA,California,West,8.34
+2010,CA,California,West,9.32
+2011,CA,California,West,7.65
+2012,CA,California,West,5.56
+2013,CA,California,West,7.15
+2014,CA,California,West,4.78
+2015,CA,California,West,4.27
+2016,CA,California,West,5.75
+2017,CA,California,West,5.19
+2018,CA,California,West,4.97
+2019,CA,California,West,7.29
+2020,CA,California,West,11.46
+2021,CA,California,West,6.79
+2022,CA,California,West,5.9
+2023,CA,California,West,5.15
+2024,CA,California,West,4.2
+2000,CO,Colorado,West,5.32
+2001,CO,Colorado,West,5.13
+2002,CO,Colorado,West,5.84
+2003,CO,Colorado,West,4.5
+2004,CO,Colorado,West,3.69
+2005,CO,Colorado,West,5.62
+2006,CO,Colorado,West,4.15
+2007,CO,Colorado,West,3.65
+2008,CO,Colorado,West,6.8
+2009,CO,Colorado,West,7.5
+2010,CO,Colorado,West,9.86
+2011,CO,Colorado,West,7.61
+2012,CO,Colorado,West,5.15
+2013,CO,Colorado,West,4.17
+2014,CO,Colorado,West,4.72
+2015,CO,Colorado,West,4.92
+2016,CO,Colorado,West,4.32
+2017,CO,Colorado,West,4.84
+2018,CO,Colorado,West,3.55
+2019,CO,Colorado,West,6.57
+2020,CO,Colorado,West,9.2
+2021,CO,Colorado,West,6.29
+2022,CO,Colorado,West,5.69
+2023,CO,Colorado,West,6.04
+2024,CO,Colorado,West,6.64
+2000,CT,Connecticut,Northeast,3.69
+2001,CT,Connecticut,Northeast,6.06
+2002,CT,Connecticut,Northeast,6.49
+2003,CT,Connecticut,Northeast,6.22
+2004,CT,Connecticut,Northeast,4.21
+2005,CT,Connecticut,Northeast,5.56
+2006,CT,Connecticut,Northeast,7.05
+2007,CT,Connecticut,Northeast,3.69
+2008,CT,Connecticut,Northeast,6.53
+2009,CT,Connecticut,Northeast,8.98
+2010,CT,Connecticut,Northeast,8.25
+2011,CT,Connecticut,Northeast,8.37
+2012,CT,Connecticut,Northeast,4.79
+2013,CT,Connecticut,Northeast,4.2
+2014,CT,Connecticut,Northeast,4.0
+2015,CT,Connecticut,Northeast,5.0
+2016,CT,Connecticut,Northeast,4.67
+2017,CT,Connecticut,Northeast,5.73
+2018,CT,Connecticut,Northeast,3.75
+2019,CT,Connecticut,Northeast,6.03
+2020,CT,Connecticut,Northeast,11.63
+2021,CT,Connecticut,Northeast,6.68
+2022,CT,Connecticut,Northeast,3.22
+2023,CT,Connecticut,Northeast,5.23
+2024,CT,Connecticut,Northeast,4.01
+2000,DE,Delaware,South,6.31
+2001,DE,Delaware,South,5.92
+2002,DE,Delaware,South,3.23
+2003,DE,Delaware,South,3.85
+2004,DE,Delaware,South,6.65
+2005,DE,Delaware,South,5.28
+2006,DE,Delaware,South,7.14
+2007,DE,Delaware,South,6.1
+2008,DE,Delaware,South,5.51
+2009,DE,Delaware,South,9.78
+2010,DE,Delaware,South,8.37
+2011,DE,Delaware,South,5.48
+2012,DE,Delaware,South,9.17
+2013,DE,Delaware,South,2.96
+2014,DE,Delaware,South,6.2
+2015,DE,Delaware,South,6.56
+2016,DE,Delaware,South,5.46
+2017,DE,Delaware,South,2.96
+2018,DE,Delaware,South,6.58
+2019,DE,Delaware,South,4.71
+2020,DE,Delaware,South,9.31
+2021,DE,Delaware,South,6.1
+2022,DE,Delaware,South,6.15
+2023,DE,Delaware,South,5.43
+2024,DE,Delaware,South,6.09
+2000,FL,Florida,South,4.02
+2001,FL,Florida,South,4.83
+2002,FL,Florida,South,5.74
+2003,FL,Florida,South,4.78
+2004,FL,Florida,South,5.55
+2005,FL,Florida,South,4.44
+2006,FL,Florida,South,4.4
+2007,FL,Florida,South,5.18
+2008,FL,Florida,South,5.72
+2009,FL,Florida,South,8.33
+2010,FL,Florida,South,9.05
+2011,FL,Florida,South,9.46
+2012,FL,Florida,South,5.56
+2013,FL,Florida,South,4.7
+2014,FL,Florida,South,3.67
+2015,FL,Florida,South,4.72
+2016,FL,Florida,South,5.37
+2017,FL,Florida,South,3.86
+2018,FL,Florida,South,4.57
+2019,FL,Florida,South,6.8
+2020,FL,Florida,South,10.4
+2021,FL,Florida,South,5.45
+2022,FL,Florida,South,5.49
+2023,FL,Florida,South,4.53
+2024,FL,Florida,South,4.81
+2000,GA,Georgia,South,7.04
+2001,GA,Georgia,South,4.46
+2002,GA,Georgia,South,5.64
+2003,GA,Georgia,South,4.98
+2004,GA,Georgia,South,2.29
+2005,GA,Georgia,South,7.03
+2006,GA,Georgia,South,5.12
+2007,GA,Georgia,South,6.33
+2008,GA,Georgia,South,4.25
+2009,GA,Georgia,South,9.74
+2010,GA,Georgia,South,8.06
+2011,GA,Georgia,South,7.58
+2012,GA,Georgia,South,3.77
+2013,GA,Georgia,South,4.77
+2014,GA,Georgia,South,4.48
+2015,GA,Georgia,South,4.5
+2016,GA,Georgia,South,5.4
+2017,GA,Georgia,South,4.8
+2018,GA,Georgia,South,6.17
+2019,GA,Georgia,South,5.44
+2020,GA,Georgia,South,9.12
+2021,GA,Georgia,South,6.05
+2022,GA,Georgia,South,5.51
+2023,GA,Georgia,South,6.38
+2024,GA,Georgia,South,5.7
+2000,HI,Hawaii,West,2.08
+2001,HI,Hawaii,West,5.27
+2002,HI,Hawaii,West,6.86
+2003,HI,Hawaii,West,4.73
+2004,HI,Hawaii,West,3.82
+2005,HI,Hawaii,West,5.03
+2006,HI,Hawaii,West,3.79
+2007,HI,Hawaii,West,5.64
+2008,HI,Hawaii,West,5.44
+2009,HI,Hawaii,West,9.35
+2010,HI,Hawaii,West,9.15
+2011,HI,Hawaii,West,6.1
+2012,HI,Hawaii,West,6.24
+2013,HI,Hawaii,West,5.88
+2014,HI,Hawaii,West,3.43
+2015,HI,Hawaii,West,3.59
+2016,HI,Hawaii,West,1.5
+2017,HI,Hawaii,West,5.52
+2018,HI,Hawaii,West,3.27
+2019,HI,Hawaii,West,2.4
+2020,HI,Hawaii,West,7.41
+2021,HI,Hawaii,West,5.19
+2022,HI,Hawaii,West,5.17
+2023,HI,Hawaii,West,3.83
+2024,HI,Hawaii,West,4.64
+2000,ID,Idaho,West,4.09
+2001,ID,Idaho,West,5.92
+2002,ID,Idaho,West,5.27
+2003,ID,Idaho,West,6.77
+2004,ID,Idaho,West,4.13
+2005,ID,Idaho,West,4.72
+2006,ID,Idaho,West,6.39
+2007,ID,Idaho,West,7.46
+2008,ID,Idaho,West,6.11
+2009,ID,Idaho,West,9.86
+2010,ID,Idaho,West,8.34
+2011,ID,Idaho,West,8.22
+2012,ID,Idaho,West,5.77
+2013,ID,Idaho,West,3.26
+2014,ID,Idaho,West,5.22
+2015,ID,Idaho,West,5.96
+2016,ID,Idaho,West,4.67
+2017,ID,Idaho,West,4.72
+2018,ID,Idaho,West,6.42
+2019,ID,Idaho,West,4.78
+2020,ID,Idaho,West,8.96
+2021,ID,Idaho,West,5.4
+2022,ID,Idaho,West,3.26
+2023,ID,Idaho,West,6.18
+2024,ID,Idaho,West,4.94
+2000,IL,Illinois,Midwest,3.96
+2001,IL,Illinois,Midwest,4.33
+2002,IL,Illinois,Midwest,9.84
+2003,IL,Illinois,Midwest,4.27
+2004,IL,Illinois,Midwest,3.99
+2005,IL,Illinois,Midwest,5.66
+2006,IL,Illinois,Midwest,6.17
+2007,IL,Illinois,Midwest,5.64
+2008,IL,Illinois,Midwest,4.62
+2009,IL,Illinois,Midwest,6.02
+2010,IL,Illinois,Midwest,9.96
+2011,IL,Illinois,Midwest,7.71
+2012,IL,Illinois,Midwest,3.32
+2013,IL,Illinois,Midwest,6.95
+2014,IL,Illinois,Midwest,6.13
+2015,IL,Illinois,Midwest,4.46
+2016,IL,Illinois,Midwest,4.39
+2017,IL,Illinois,Midwest,5.14
+2018,IL,Illinois,Midwest,3.67
+2019,IL,Illinois,Midwest,4.05
+2020,IL,Illinois,Midwest,11.19
+2021,IL,Illinois,Midwest,3.84
+2022,IL,Illinois,Midwest,5.25
+2023,IL,Illinois,Midwest,2.28
+2024,IL,Illinois,Midwest,4.38
+2000,IN,Indiana,Midwest,4.51
+2001,IN,Indiana,Midwest,2.7
+2002,IN,Indiana,Midwest,3.73
+2003,IN,Indiana,Midwest,3.04
+2004,IN,Indiana,Midwest,3.74
+2005,IN,Indiana,Midwest,5.11
+2006,IN,Indiana,Midwest,5.58
+2007,IN,Indiana,Midwest,6.94
+2008,IN,Indiana,Midwest,4.4
+2009,IN,Indiana,Midwest,10.88
+2010,IN,Indiana,Midwest,11.11
+2011,IN,Indiana,Midwest,6.87
+2012,IN,Indiana,Midwest,2.11
+2013,IN,Indiana,Midwest,4.32
+2014,IN,Indiana,Midwest,4.34
+2015,IN,Indiana,Midwest,1.5
+2016,IN,Indiana,Midwest,4.26
+2017,IN,Indiana,Midwest,3.85
+2018,IN,Indiana,Midwest,3.03
+2019,IN,Indiana,Midwest,6.43
+2020,IN,Indiana,Midwest,11.42
+2021,IN,Indiana,Midwest,4.82
+2022,IN,Indiana,Midwest,4.3
+2023,IN,Indiana,Midwest,3.02
+2024,IN,Indiana,Midwest,2.8
+2000,IA,Iowa,Midwest,4.6
+2001,IA,Iowa,Midwest,2.35
+2002,IA,Iowa,Midwest,6.07
+2003,IA,Iowa,Midwest,3.11
+2004,IA,Iowa,Midwest,5.38
+2005,IA,Iowa,Midwest,7.57
+2006,IA,Iowa,Midwest,5.15
+2007,IA,Iowa,Midwest,3.7
+2008,IA,Iowa,Midwest,4.12
+2009,IA,Iowa,Midwest,9.45
+2010,IA,Iowa,Midwest,9.0
+2011,IA,Iowa,Midwest,8.54
+2012,IA,Iowa,Midwest,7.19
+2013,IA,Iowa,Midwest,5.03
+2014,IA,Iowa,Midwest,4.49
+2015,IA,Iowa,Midwest,3.58
+2016,IA,Iowa,Midwest,1.5
+2017,IA,Iowa,Midwest,2.75
+2018,IA,Iowa,Midwest,4.68
+2019,IA,Iowa,Midwest,5.98
+2020,IA,Iowa,Midwest,11.23
+2021,IA,Iowa,Midwest,5.98
+2022,IA,Iowa,Midwest,4.86
+2023,IA,Iowa,Midwest,5.64
+2024,IA,Iowa,Midwest,3.37
+2000,KS,Kansas,Midwest,4.59
+2001,KS,Kansas,Midwest,4.94
+2002,KS,Kansas,Midwest,5.45
+2003,KS,Kansas,Midwest,6.67
+2004,KS,Kansas,Midwest,6.08
+2005,KS,Kansas,Midwest,4.69
+2006,KS,Kansas,Midwest,5.68
+2007,KS,Kansas,Midwest,3.16
+2008,KS,Kansas,Midwest,6.18
+2009,KS,Kansas,Midwest,7.62
+2010,KS,Kansas,Midwest,6.66
+2011,KS,Kansas,Midwest,8.98
+2012,KS,Kansas,Midwest,4.69
+2013,KS,Kansas,Midwest,5.49
+2014,KS,Kansas,Midwest,3.98
+2015,KS,Kansas,Midwest,5.62
+2016,KS,Kansas,Midwest,5.96
+2017,KS,Kansas,Midwest,3.37
+2018,KS,Kansas,Midwest,2.52
+2019,KS,Kansas,Midwest,5.63
+2020,KS,Kansas,Midwest,11.28
+2021,KS,Kansas,Midwest,5.28
+2022,KS,Kansas,Midwest,3.49
+2023,KS,Kansas,Midwest,4.74
+2024,KS,Kansas,Midwest,1.5
+2000,KY,Kentucky,South,5.46
+2001,KY,Kentucky,South,4.16
+2002,KY,Kentucky,South,3.66
+2003,KY,Kentucky,South,4.57
+2004,KY,Kentucky,South,3.16
+2005,KY,Kentucky,South,4.92
+2006,KY,Kentucky,South,4.08
+2007,KY,Kentucky,South,4.58
+2008,KY,Kentucky,South,4.95
+2009,KY,Kentucky,South,8.75
+2010,KY,Kentucky,South,8.63
+2011,KY,Kentucky,South,8.2
+2012,KY,Kentucky,South,6.29
+2013,KY,Kentucky,South,3.85
+2014,KY,Kentucky,South,5.35
+2015,KY,Kentucky,South,5.03
+2016,KY,Kentucky,South,4.95
+2017,KY,Kentucky,South,4.04
+2018,KY,Kentucky,South,4.0
+2019,KY,Kentucky,South,6.93
+2020,KY,Kentucky,South,13.11
+2021,KY,Kentucky,South,4.88
+2022,KY,Kentucky,South,5.05
+2023,KY,Kentucky,South,3.88
+2024,KY,Kentucky,South,5.26
+2000,LA,Louisiana,South,5.91
+2001,LA,Louisiana,South,4.52
+2002,LA,Louisiana,South,3.98
+2003,LA,Louisiana,South,5.1
+2004,LA,Louisiana,South,4.26
+2005,LA,Louisiana,South,4.33
+2006,LA,Louisiana,South,6.05
+2007,LA,Louisiana,South,7.78
+2008,LA,Louisiana,South,2.37
+2009,LA,Louisiana,South,7.46
+2010,LA,Louisiana,South,9.42
+2011,LA,Louisiana,South,7.81
+2012,LA,Louisiana,South,5.48
+2013,LA,Louisiana,South,3.31
+2014,LA,Louisiana,South,3.65
+2015,LA,Louisiana,South,5.79
+2016,LA,Louisiana,South,6.22
+2017,LA,Louisiana,South,4.9
+2018,LA,Louisiana,South,3.67
+2019,LA,Louisiana,South,6.33
+2020,LA,Louisiana,South,10.36
+2021,LA,Louisiana,South,6.85
+2022,LA,Louisiana,South,4.78
+2023,LA,Louisiana,South,3.76
+2024,LA,Louisiana,South,4.79
+2000,ME,Maine,Northeast,6.57
+2001,ME,Maine,Northeast,3.81
+2002,ME,Maine,Northeast,5.62
+2003,ME,Maine,Northeast,3.96
+2004,ME,Maine,Northeast,6.31
+2005,ME,Maine,Northeast,6.08
+2006,ME,Maine,Northeast,4.75
+2007,ME,Maine,Northeast,6.29
+2008,ME,Maine,Northeast,5.44
+2009,ME,Maine,Northeast,6.99
+2010,ME,Maine,Northeast,8.22
+2011,ME,Maine,Northeast,7.5
+2012,ME,Maine,Northeast,5.43
+2013,ME,Maine,Northeast,5.12
+2014,ME,Maine,Northeast,4.04
+2015,ME,Maine,Northeast,5.59
+2016,ME,Maine,Northeast,5.85
+2017,ME,Maine,Northeast,4.07
+2018,ME,Maine,Northeast,2.98
+2019,ME,Maine,Northeast,6.9
+2020,ME,Maine,Northeast,11.85
+2021,ME,Maine,Northeast,5.81
+2022,ME,Maine,Northeast,3.01
+2023,ME,Maine,Northeast,4.75
+2024,ME,Maine,Northeast,6.16
+2000,MD,Maryland,South,2.22
+2001,MD,Maryland,South,3.75
+2002,MD,Maryland,South,5.79
+2003,MD,Maryland,South,3.01
+2004,MD,Maryland,South,5.42
+2005,MD,Maryland,South,6.94
+2006,MD,Maryland,South,5.18
+2007,MD,Maryland,South,3.7
+2008,MD,Maryland,South,3.1
+2009,MD,Maryland,South,5.66
+2010,MD,Maryland,South,5.94
+2011,MD,Maryland,South,10.01
+2012,MD,Maryland,South,5.31
+2013,MD,Maryland,South,3.24
+2014,MD,Maryland,South,2.66
+2015,MD,Maryland,South,2.96
+2016,MD,Maryland,South,4.05
+2017,MD,Maryland,South,2.57
+2018,MD,Maryland,South,7.09
+2019,MD,Maryland,South,4.82
+2020,MD,Maryland,South,9.23
+2021,MD,Maryland,South,6.36
+2022,MD,Maryland,South,6.61
+2023,MD,Maryland,South,6.36
+2024,MD,Maryland,South,3.55
+2000,MA,Massachusetts,Northeast,6.12
+2001,MA,Massachusetts,Northeast,5.66
+2002,MA,Massachusetts,Northeast,3.76
+2003,MA,Massachusetts,Northeast,3.24
+2004,MA,Massachusetts,Northeast,5.44
+2005,MA,Massachusetts,Northeast,3.29
+2006,MA,Massachusetts,Northeast,7.23
+2007,MA,Massachusetts,Northeast,5.3
+2008,MA,Massachusetts,Northeast,4.43
+2009,MA,Massachusetts,Northeast,7.32
+2010,MA,Massachusetts,Northeast,8.17
+2011,MA,Massachusetts,Northeast,7.55
+2012,MA,Massachusetts,Northeast,7.36
+2013,MA,Massachusetts,Northeast,2.79
+2014,MA,Massachusetts,Northeast,1.94
+2015,MA,Massachusetts,Northeast,5.32
+2016,MA,Massachusetts,Northeast,4.49
+2017,MA,Massachusetts,Northeast,4.98
+2018,MA,Massachusetts,Northeast,5.41
+2019,MA,Massachusetts,Northeast,5.88
+2020,MA,Massachusetts,Northeast,11.87
+2021,MA,Massachusetts,Northeast,4.71
+2022,MA,Massachusetts,Northeast,4.69
+2023,MA,Massachusetts,Northeast,3.24
+2024,MA,Massachusetts,Northeast,2.74
+2000,MI,Michigan,Midwest,5.41
+2001,MI,Michigan,Midwest,3.07
+2002,MI,Michigan,Midwest,4.91
+2003,MI,Michigan,Midwest,5.92
+2004,MI,Michigan,Midwest,3.57
+2005,MI,Michigan,Midwest,4.18
+2006,MI,Michigan,Midwest,2.53
+2007,MI,Michigan,Midwest,7.88
+2008,MI,Michigan,Midwest,5.96
+2009,MI,Michigan,Midwest,8.31
+2010,MI,Michigan,Midwest,9.14
+2011,MI,Michigan,Midwest,8.29
+2012,MI,Michigan,Midwest,6.0
+2013,MI,Michigan,Midwest,3.89
+2014,MI,Michigan,Midwest,5.13
+2015,MI,Michigan,Midwest,4.2
+2016,MI,Michigan,Midwest,5.78
+2017,MI,Michigan,Midwest,3.05
+2018,MI,Michigan,Midwest,3.3
+2019,MI,Michigan,Midwest,6.34
+2020,MI,Michigan,Midwest,11.63
+2021,MI,Michigan,Midwest,5.58
+2022,MI,Michigan,Midwest,2.94
+2023,MI,Michigan,Midwest,3.67
+2024,MI,Michigan,Midwest,3.13
+2000,MN,Minnesota,Midwest,6.64
+2001,MN,Minnesota,Midwest,5.27
+2002,MN,Minnesota,Midwest,4.05
+2003,MN,Minnesota,Midwest,6.42
+2004,MN,Minnesota,Midwest,7.05
+2005,MN,Minnesota,Midwest,5.53
+2006,MN,Minnesota,Midwest,4.67
+2007,MN,Minnesota,Midwest,6.33
+2008,MN,Minnesota,Midwest,5.1
+2009,MN,Minnesota,Midwest,8.47
+2010,MN,Minnesota,Midwest,7.56
+2011,MN,Minnesota,Midwest,6.0
+2012,MN,Minnesota,Midwest,6.27
+2013,MN,Minnesota,Midwest,5.1
+2014,MN,Minnesota,Midwest,7.08
+2015,MN,Minnesota,Midwest,4.0
+2016,MN,Minnesota,Midwest,4.38
+2017,MN,Minnesota,Midwest,2.73
+2018,MN,Minnesota,Midwest,1.71
+2019,MN,Minnesota,Midwest,3.27
+2020,MN,Minnesota,Midwest,10.86
+2021,MN,Minnesota,Midwest,4.05
+2022,MN,Minnesota,Midwest,5.74
+2023,MN,Minnesota,Midwest,6.1
+2024,MN,Minnesota,Midwest,3.69
+2000,MS,Mississippi,South,8.05
+2001,MS,Mississippi,South,5.49
+2002,MS,Mississippi,South,7.04
+2003,MS,Mississippi,South,4.46
+2004,MS,Mississippi,South,6.53
+2005,MS,Mississippi,South,5.04
+2006,MS,Mississippi,South,5.46
+2007,MS,Mississippi,South,6.61
+2008,MS,Mississippi,South,6.79
+2009,MS,Mississippi,South,8.25
+2010,MS,Mississippi,South,10.47
+2011,MS,Mississippi,South,9.36
+2012,MS,Mississippi,South,4.56
+2013,MS,Mississippi,South,6.32
+2014,MS,Mississippi,South,6.27
+2015,MS,Mississippi,South,4.31
+2016,MS,Mississippi,South,5.81
+2017,MS,Mississippi,South,3.48
+2018,MS,Mississippi,South,7.18
+2019,MS,Mississippi,South,6.37
+2020,MS,Mississippi,South,11.05
+2021,MS,Mississippi,South,8.23
+2022,MS,Mississippi,South,4.92
+2023,MS,Mississippi,South,5.86
+2024,MS,Mississippi,South,3.62
+2000,MO,Missouri,Midwest,4.23
+2001,MO,Missouri,Midwest,5.73
+2002,MO,Missouri,Midwest,4.69
+2003,MO,Missouri,Midwest,5.48
+2004,MO,Missouri,Midwest,3.08
+2005,MO,Missouri,Midwest,3.23
+2006,MO,Missouri,Midwest,3.72
+2007,MO,Missouri,Midwest,5.13
+2008,MO,Missouri,Midwest,5.66
+2009,MO,Missouri,Midwest,6.99
+2010,MO,Missouri,Midwest,8.92
+2011,MO,Missouri,Midwest,6.76
+2012,MO,Missouri,Midwest,5.06
+2013,MO,Missouri,Midwest,5.84
+2014,MO,Missouri,Midwest,3.31
+2015,MO,Missouri,Midwest,4.21
+2016,MO,Missouri,Midwest,5.94
+2017,MO,Missouri,Midwest,4.04
+2018,MO,Missouri,Midwest,4.78
+2019,MO,Missouri,Midwest,4.6
+2020,MO,Missouri,Midwest,12.24
+2021,MO,Missouri,Midwest,2.5
+2022,MO,Missouri,Midwest,2.37
+2023,MO,Missouri,Midwest,2.42
+2024,MO,Missouri,Midwest,5.69
+2000,MT,Montana,West,5.26
+2001,MT,Montana,West,5.24
+2002,MT,Montana,West,4.89
+2003,MT,Montana,West,3.84
+2004,MT,Montana,West,2.8
+2005,MT,Montana,West,3.26
+2006,MT,Montana,West,4.9
+2007,MT,Montana,West,5.15
+2008,MT,Montana,West,5.64
+2009,MT,Montana,West,7.15
+2010,MT,Montana,West,6.25
+2011,MT,Montana,West,7.34
+2012,MT,Montana,West,4.11
+2013,MT,Montana,West,4.61
+2014,MT,Montana,West,4.95
+2015,MT,Montana,West,3.47
+2016,MT,Montana,West,2.99
+2017,MT,Montana,West,5.5
+2018,MT,Montana,West,4.68
+2019,MT,Montana,West,4.88
+2020,MT,Montana,West,6.37
+2021,MT,Montana,West,5.55
+2022,MT,Montana,West,4.9
+2023,MT,Montana,West,5.46
+2024,MT,Montana,West,3.16
+2000,NE,Nebraska,Midwest,5.42
+2001,NE,Nebraska,Midwest,3.2
+2002,NE,Nebraska,Midwest,4.32
+2003,NE,Nebraska,Midwest,3.4
+2004,NE,Nebraska,Midwest,4.67
+2005,NE,Nebraska,Midwest,2.65
+2006,NE,Nebraska,Midwest,4.73
+2007,NE,Nebraska,Midwest,3.91
+2008,NE,Nebraska,Midwest,4.99
+2009,NE,Nebraska,Midwest,7.61
+2010,NE,Nebraska,Midwest,9.42
+2011,NE,Nebraska,Midwest,5.12
+2012,NE,Nebraska,Midwest,6.2
+2013,NE,Nebraska,Midwest,4.86
+2014,NE,Nebraska,Midwest,3.74
+2015,NE,Nebraska,Midwest,5.54
+2016,NE,Nebraska,Midwest,4.18
+2017,NE,Nebraska,Midwest,5.35
+2018,NE,Nebraska,Midwest,3.29
+2019,NE,Nebraska,Midwest,4.43
+2020,NE,Nebraska,Midwest,11.17
+2021,NE,Nebraska,Midwest,7.66
+2022,NE,Nebraska,Midwest,4.49
+2023,NE,Nebraska,Midwest,4.71
+2024,NE,Nebraska,Midwest,3.19
+2000,NV,Nevada,West,3.84
+2001,NV,Nevada,West,3.13
+2002,NV,Nevada,West,4.84
+2003,NV,Nevada,West,2.99
+2004,NV,Nevada,West,5.54
+2005,NV,Nevada,West,6.48
+2006,NV,Nevada,West,3.76
+2007,NV,Nevada,West,4.95
+2008,NV,Nevada,West,7.95
+2009,NV,Nevada,West,7.95
+2010,NV,Nevada,West,7.62
+2011,NV,Nevada,West,6.32
+2012,NV,Nevada,West,3.56
+2013,NV,Nevada,West,6.26
+2014,NV,Nevada,West,4.13
+2015,NV,Nevada,West,6.37
+2016,NV,Nevada,West,6.11
+2017,NV,Nevada,West,4.13
+2018,NV,Nevada,West,4.28
+2019,NV,Nevada,West,7.39
+2020,NV,Nevada,West,11.06
+2021,NV,Nevada,West,6.67
+2022,NV,Nevada,West,2.72
+2023,NV,Nevada,West,5.91
+2024,NV,Nevada,West,3.62
+2000,NH,New Hampshire,Northeast,5.48
+2001,NH,New Hampshire,Northeast,7.5
+2002,NH,New Hampshire,Northeast,4.44
+2003,NH,New Hampshire,Northeast,3.23
+2004,NH,New Hampshire,Northeast,7.43
+2005,NH,New Hampshire,Northeast,4.99
+2006,NH,New Hampshire,Northeast,4.46
+2007,NH,New Hampshire,Northeast,3.58
+2008,NH,New Hampshire,Northeast,4.46
+2009,NH,New Hampshire,Northeast,9.3
+2010,NH,New Hampshire,Northeast,8.29
+2011,NH,New Hampshire,Northeast,6.76
+2012,NH,New Hampshire,Northeast,4.93
+2013,NH,New Hampshire,Northeast,6.63
+2014,NH,New Hampshire,Northeast,3.79
+2015,NH,New Hampshire,Northeast,5.23
+2016,NH,New Hampshire,Northeast,4.75
+2017,NH,New Hampshire,Northeast,4.69
+2018,NH,New Hampshire,Northeast,3.31
+2019,NH,New Hampshire,Northeast,6.63
+2020,NH,New Hampshire,Northeast,12.27
+2021,NH,New Hampshire,Northeast,5.69
+2022,NH,New Hampshire,Northeast,3.12
+2023,NH,New Hampshire,Northeast,2.61
+2024,NH,New Hampshire,Northeast,4.39
+2000,NJ,New Jersey,Northeast,4.79
+2001,NJ,New Jersey,Northeast,3.55
+2002,NJ,New Jersey,Northeast,5.78
+2003,NJ,New Jersey,Northeast,5.2
+2004,NJ,New Jersey,Northeast,4.86
+2005,NJ,New Jersey,Northeast,5.13
+2006,NJ,New Jersey,Northeast,5.81
+2007,NJ,New Jersey,Northeast,5.06
+2008,NJ,New Jersey,Northeast,4.95
+2009,NJ,New Jersey,Northeast,8.76
+2010,NJ,New Jersey,Northeast,8.3
+2011,NJ,New Jersey,Northeast,6.8
+2012,NJ,New Jersey,Northeast,4.1
+2013,NJ,New Jersey,Northeast,4.82
+2014,NJ,New Jersey,Northeast,3.57
+2015,NJ,New Jersey,Northeast,4.05
+2016,NJ,New Jersey,Northeast,4.98
+2017,NJ,New Jersey,Northeast,4.53
+2018,NJ,New Jersey,Northeast,5.51
+2019,NJ,New Jersey,Northeast,6.24
+2020,NJ,New Jersey,Northeast,10.0
+2021,NJ,New Jersey,Northeast,5.53
+2022,NJ,New Jersey,Northeast,3.85
+2023,NJ,New Jersey,Northeast,4.95
+2024,NJ,New Jersey,Northeast,4.29
+2000,NM,New Mexico,West,5.75
+2001,NM,New Mexico,West,5.04
+2002,NM,New Mexico,West,3.76
+2003,NM,New Mexico,West,6.06
+2004,NM,New Mexico,West,5.78
+2005,NM,New Mexico,West,5.53
+2006,NM,New Mexico,West,4.93
+2007,NM,New Mexico,West,4.58
+2008,NM,New Mexico,West,6.09
+2009,NM,New Mexico,West,8.44
+2010,NM,New Mexico,West,9.15
+2011,NM,New Mexico,West,7.92
+2012,NM,New Mexico,West,5.67
+2013,NM,New Mexico,West,5.78
+2014,NM,New Mexico,West,5.46
+2015,NM,New Mexico,West,4.23
+2016,NM,New Mexico,West,6.01
+2017,NM,New Mexico,West,6.01
+2018,NM,New Mexico,West,6.03
+2019,NM,New Mexico,West,6.34
+2020,NM,New Mexico,West,10.73
+2021,NM,New Mexico,West,5.04
+2022,NM,New Mexico,West,5.82
+2023,NM,New Mexico,West,2.31
+2024,NM,New Mexico,West,4.37
+2000,NY,New York,Northeast,5.18
+2001,NY,New York,Northeast,6.56
+2002,NY,New York,Northeast,5.51
+2003,NY,New York,Northeast,4.34
+2004,NY,New York,Northeast,3.76
+2005,NY,New York,Northeast,4.55
+2006,NY,New York,Northeast,5.52
+2007,NY,New York,Northeast,5.59
+2008,NY,New York,Northeast,6.08
+2009,NY,New York,Northeast,7.3
+2010,NY,New York,Northeast,9.0
+2011,NY,New York,Northeast,9.22
+2012,NY,New York,Northeast,4.88
+2013,NY,New York,Northeast,5.36
+2014,NY,New York,Northeast,7.04
+2015,NY,New York,Northeast,5.74
+2016,NY,New York,Northeast,4.51
+2017,NY,New York,Northeast,5.79
+2018,NY,New York,Northeast,4.11
+2019,NY,New York,Northeast,6.45
+2020,NY,New York,Northeast,12.75
+2021,NY,New York,Northeast,8.61
+2022,NY,New York,Northeast,2.85
+2023,NY,New York,Northeast,5.64
+2024,NY,New York,Northeast,7.08
+2000,NC,North Carolina,South,7.22
+2001,NC,North Carolina,South,5.08
+2002,NC,North Carolina,South,6.04
+2003,NC,North Carolina,South,5.47
+2004,NC,North Carolina,South,3.48
+2005,NC,North Carolina,South,5.83
+2006,NC,North Carolina,South,5.26
+2007,NC,North Carolina,South,6.55
+2008,NC,North Carolina,South,8.57
+2009,NC,North Carolina,South,8.88
+2010,NC,North Carolina,South,8.91
+2011,NC,North Carolina,South,8.57
+2012,NC,North Carolina,South,6.44
+2013,NC,North Carolina,South,6.45
+2014,NC,North Carolina,South,3.67
+2015,NC,North Carolina,South,3.91
+2016,NC,North Carolina,South,2.95
+2017,NC,North Carolina,South,5.71
+2018,NC,North Carolina,South,5.04
+2019,NC,North Carolina,South,5.82
+2020,NC,North Carolina,South,10.2
+2021,NC,North Carolina,South,5.83
+2022,NC,North Carolina,South,3.95
+2023,NC,North Carolina,South,4.53
+2024,NC,North Carolina,South,4.31
+2000,ND,North Dakota,Midwest,6.27
+2001,ND,North Dakota,Midwest,3.49
+2002,ND,North Dakota,Midwest,5.94
+2003,ND,North Dakota,Midwest,4.87
+2004,ND,North Dakota,Midwest,4.62
+2005,ND,North Dakota,Midwest,5.18
+2006,ND,North Dakota,Midwest,6.36
+2007,ND,North Dakota,Midwest,2.59
+2008,ND,North Dakota,Midwest,4.03
+2009,ND,North Dakota,Midwest,4.45
+2010,ND,North Dakota,Midwest,8.7
+2011,ND,North Dakota,Midwest,6.27
+2012,ND,North Dakota,Midwest,4.0
+2013,ND,North Dakota,Midwest,3.02
+2014,ND,North Dakota,Midwest,4.85
+2015,ND,North Dakota,Midwest,3.64
+2016,ND,North Dakota,Midwest,3.07
+2017,ND,North Dakota,Midwest,5.52
+2018,ND,North Dakota,Midwest,2.31
+2019,ND,North Dakota,Midwest,3.44
+2020,ND,North Dakota,Midwest,13.28
+2021,ND,North Dakota,Midwest,4.62
+2022,ND,North Dakota,Midwest,2.87
+2023,ND,North Dakota,Midwest,2.56
+2024,ND,North Dakota,Midwest,3.35
+2000,OH,Ohio,Midwest,5.9
+2001,OH,Ohio,Midwest,4.67
+2002,OH,Ohio,Midwest,2.87
+2003,OH,Ohio,Midwest,5.42
+2004,OH,Ohio,Midwest,7.2
+2005,OH,Ohio,Midwest,6.51
+2006,OH,Ohio,Midwest,4.68
+2007,OH,Ohio,Midwest,6.22
+2008,OH,Ohio,Midwest,5.28
+2009,OH,Ohio,Midwest,7.56
+2010,OH,Ohio,Midwest,6.97
+2011,OH,Ohio,Midwest,7.11
+2012,OH,Ohio,Midwest,5.91
+2013,OH,Ohio,Midwest,4.61
+2014,OH,Ohio,Midwest,5.78
+2015,OH,Ohio,Midwest,7.36
+2016,OH,Ohio,Midwest,6.51
+2017,OH,Ohio,Midwest,4.1
+2018,OH,Ohio,Midwest,3.46
+2019,OH,Ohio,Midwest,5.02
+2020,OH,Ohio,Midwest,9.01
+2021,OH,Ohio,Midwest,5.96
+2022,OH,Ohio,Midwest,5.01
+2023,OH,Ohio,Midwest,4.61
+2024,OH,Ohio,Midwest,4.59
+2000,OK,Oklahoma,South,5.09
+2001,OK,Oklahoma,South,7.02
+2002,OK,Oklahoma,South,6.13
+2003,OK,Oklahoma,South,3.65
+2004,OK,Oklahoma,South,3.62
+2005,OK,Oklahoma,South,3.99
+2006,OK,Oklahoma,South,4.74
+2007,OK,Oklahoma,South,6.41
+2008,OK,Oklahoma,South,6.89
+2009,OK,Oklahoma,South,8.75
+2010,OK,Oklahoma,South,9.92
+2011,OK,Oklahoma,South,8.74
+2012,OK,Oklahoma,South,6.41
+2013,OK,Oklahoma,South,5.2
+2014,OK,Oklahoma,South,4.29
+2015,OK,Oklahoma,South,2.2
+2016,OK,Oklahoma,South,4.19
+2017,OK,Oklahoma,South,6.58
+2018,OK,Oklahoma,South,3.63
+2019,OK,Oklahoma,South,4.97
+2020,OK,Oklahoma,South,11.5
+2021,OK,Oklahoma,South,5.78
+2022,OK,Oklahoma,South,3.58
+2023,OK,Oklahoma,South,6.07
+2024,OK,Oklahoma,South,4.87
+2000,OR,Oregon,West,5.65
+2001,OR,Oregon,West,5.44
+2002,OR,Oregon,West,6.01
+2003,OR,Oregon,West,6.53
+2004,OR,Oregon,West,6.46
+2005,OR,Oregon,West,5.0
+2006,OR,Oregon,West,5.76
+2007,OR,Oregon,West,3.15
+2008,OR,Oregon,West,6.6
+2009,OR,Oregon,West,8.46
+2010,OR,Oregon,West,8.0
+2011,OR,Oregon,West,6.22
+2012,OR,Oregon,West,5.42
+2013,OR,Oregon,West,2.84
+2014,OR,Oregon,West,4.97
+2015,OR,Oregon,West,4.85
+2016,OR,Oregon,West,2.96
+2017,OR,Oregon,West,4.42
+2018,OR,Oregon,West,5.93
+2019,OR,Oregon,West,7.36
+2020,OR,Oregon,West,11.75
+2021,OR,Oregon,West,5.48
+2022,OR,Oregon,West,3.7
+2023,OR,Oregon,West,3.56
+2024,OR,Oregon,West,5.0
+2000,PA,Pennsylvania,Northeast,8.18
+2001,PA,Pennsylvania,Northeast,6.68
+2002,PA,Pennsylvania,Northeast,6.93
+2003,PA,Pennsylvania,Northeast,6.53
+2004,PA,Pennsylvania,Northeast,1.92
+2005,PA,Pennsylvania,Northeast,4.07
+2006,PA,Pennsylvania,Northeast,3.69
+2007,PA,Pennsylvania,Northeast,6.42
+2008,PA,Pennsylvania,Northeast,7.88
+2009,PA,Pennsylvania,Northeast,6.05
+2010,PA,Pennsylvania,Northeast,8.27
+2011,PA,Pennsylvania,Northeast,7.87
+2012,PA,Pennsylvania,Northeast,4.39
+2013,PA,Pennsylvania,Northeast,3.32
+2014,PA,Pennsylvania,Northeast,3.05
+2015,PA,Pennsylvania,Northeast,5.41
+2016,PA,Pennsylvania,Northeast,2.61
+2017,PA,Pennsylvania,Northeast,5.73
+2018,PA,Pennsylvania,Northeast,4.1
+2019,PA,Pennsylvania,Northeast,6.57
+2020,PA,Pennsylvania,Northeast,12.27
+2021,PA,Pennsylvania,Northeast,4.31
+2022,PA,Pennsylvania,Northeast,2.58
+2023,PA,Pennsylvania,Northeast,4.44
+2024,PA,Pennsylvania,Northeast,2.15
+2000,RI,Rhode Island,Northeast,3.37
+2001,RI,Rhode Island,Northeast,4.32
+2002,RI,Rhode Island,Northeast,4.72
+2003,RI,Rhode Island,Northeast,2.45
+2004,RI,Rhode Island,Northeast,3.79
+2005,RI,Rhode Island,Northeast,5.3
+2006,RI,Rhode Island,Northeast,6.5
+2007,RI,Rhode Island,Northeast,1.5
+2008,RI,Rhode Island,Northeast,7.35
+2009,RI,Rhode Island,Northeast,8.47
+2010,RI,Rhode Island,Northeast,6.47
+2011,RI,Rhode Island,Northeast,4.65
+2012,RI,Rhode Island,Northeast,5.8
+2013,RI,Rhode Island,Northeast,3.61
+2014,RI,Rhode Island,Northeast,4.3
+2015,RI,Rhode Island,Northeast,5.41
+2016,RI,Rhode Island,Northeast,3.41
+2017,RI,Rhode Island,Northeast,4.23
+2018,RI,Rhode Island,Northeast,4.72
+2019,RI,Rhode Island,Northeast,6.82
+2020,RI,Rhode Island,Northeast,12.68
+2021,RI,Rhode Island,Northeast,8.04
+2022,RI,Rhode Island,Northeast,4.21
+2023,RI,Rhode Island,Northeast,3.39
+2024,RI,Rhode Island,Northeast,7.52
+2000,SC,South Carolina,South,5.88
+2001,SC,South Carolina,South,6.04
+2002,SC,South Carolina,South,3.87
+2003,SC,South Carolina,South,4.28
+2004,SC,South Carolina,South,3.04
+2005,SC,South Carolina,South,4.13
+2006,SC,South Carolina,South,4.91
+2007,SC,South Carolina,South,2.89
+2008,SC,South Carolina,South,4.51
+2009,SC,South Carolina,South,7.42
+2010,SC,South Carolina,South,6.94
+2011,SC,South Carolina,South,5.75
+2012,SC,South Carolina,South,4.46
+2013,SC,South Carolina,South,2.82
+2014,SC,South Carolina,South,5.39
+2015,SC,South Carolina,South,3.14
+2016,SC,South Carolina,South,5.53
+2017,SC,South Carolina,South,5.71
+2018,SC,South Carolina,South,2.79
+2019,SC,South Carolina,South,5.92
+2020,SC,South Carolina,South,9.68
+2021,SC,South Carolina,South,4.24
+2022,SC,South Carolina,South,3.84
+2023,SC,South Carolina,South,3.91
+2024,SC,South Carolina,South,5.18
+2000,SD,South Dakota,Midwest,3.98
+2001,SD,South Dakota,Midwest,5.27
+2002,SD,South Dakota,Midwest,6.15
+2003,SD,South Dakota,Midwest,1.5
+2004,SD,South Dakota,Midwest,6.22
+2005,SD,South Dakota,Midwest,4.15
+2006,SD,South Dakota,Midwest,6.53
+2007,SD,South Dakota,Midwest,3.89
+2008,SD,South Dakota,Midwest,4.11
+2009,SD,South Dakota,Midwest,7.14
+2010,SD,South Dakota,Midwest,9.87
+2011,SD,South Dakota,Midwest,7.05
+2012,SD,South Dakota,Midwest,1.82
+2013,SD,South Dakota,Midwest,5.26
+2014,SD,South Dakota,Midwest,1.82
+2015,SD,South Dakota,Midwest,2.67
+2016,SD,South Dakota,Midwest,2.37
+2017,SD,South Dakota,Midwest,1.5
+2018,SD,South Dakota,Midwest,2.2
+2019,SD,South Dakota,Midwest,4.02
+2020,SD,South Dakota,Midwest,9.02
+2021,SD,South Dakota,Midwest,5.27
+2022,SD,South Dakota,Midwest,3.37
+2023,SD,South Dakota,Midwest,1.69
+2024,SD,South Dakota,Midwest,3.49
+2000,TN,Tennessee,South,6.96
+2001,TN,Tennessee,South,6.39
+2002,TN,Tennessee,South,6.77
+2003,TN,Tennessee,South,7.46
+2004,TN,Tennessee,South,7.94
+2005,TN,Tennessee,South,4.81
+2006,TN,Tennessee,South,4.87
+2007,TN,Tennessee,South,7.67
+2008,TN,Tennessee,South,8.6
+2009,TN,Tennessee,South,10.36
+2010,TN,Tennessee,South,5.53
+2011,TN,Tennessee,South,7.59
+2012,TN,Tennessee,South,1.5
+2013,TN,Tennessee,South,6.33
+2014,TN,Tennessee,South,5.1
+2015,TN,Tennessee,South,5.05
+2016,TN,Tennessee,South,4.72
+2017,TN,Tennessee,South,6.9
+2018,TN,Tennessee,South,4.44
+2019,TN,Tennessee,South,7.92
+2020,TN,Tennessee,South,11.65
+2021,TN,Tennessee,South,6.81
+2022,TN,Tennessee,South,5.47
+2023,TN,Tennessee,South,4.87
+2024,TN,Tennessee,South,2.99
+2000,TX,Texas,South,5.52
+2001,TX,Texas,South,6.76
+2002,TX,Texas,South,6.98
+2003,TX,Texas,South,3.75
+2004,TX,Texas,South,5.39
+2005,TX,Texas,South,4.91
+2006,TX,Texas,South,4.22
+2007,TX,Texas,South,6.14
+2008,TX,Texas,South,5.22
+2009,TX,Texas,South,7.62
+2010,TX,Texas,South,9.75
+2011,TX,Texas,South,8.7
+2012,TX,Texas,South,6.8
+2013,TX,Texas,South,8.74
+2014,TX,Texas,South,4.54
+2015,TX,Texas,South,5.6
+2016,TX,Texas,South,3.43
+2017,TX,Texas,South,5.87
+2018,TX,Texas,South,6.84
+2019,TX,Texas,South,8.37
+2020,TX,Texas,South,10.13
+2021,TX,Texas,South,6.11
+2022,TX,Texas,South,6.87
+2023,TX,Texas,South,4.82
+2024,TX,Texas,South,6.33
+2000,UT,Utah,West,3.99
+2001,UT,Utah,West,5.99
+2002,UT,Utah,West,4.17
+2003,UT,Utah,West,5.04
+2004,UT,Utah,West,5.45
+2005,UT,Utah,West,5.58
+2006,UT,Utah,West,5.04
+2007,UT,Utah,West,5.0
+2008,UT,Utah,West,6.37
+2009,UT,Utah,West,9.87
+2010,UT,Utah,West,6.2
+2011,UT,Utah,West,5.89
+2012,UT,Utah,West,3.78
+2013,UT,Utah,West,4.14
+2014,UT,Utah,West,2.46
+2015,UT,Utah,West,5.65
+2016,UT,Utah,West,4.97
+2017,UT,Utah,West,4.44
+2018,UT,Utah,West,3.83
+2019,UT,Utah,West,6.45
+2020,UT,Utah,West,10.96
+2021,UT,Utah,West,6.63
+2022,UT,Utah,West,3.63
+2023,UT,Utah,West,5.52
+2024,UT,Utah,West,2.49
+2000,VT,Vermont,Northeast,4.19
+2001,VT,Vermont,Northeast,3.36
+2002,VT,Vermont,Northeast,5.93
+2003,VT,Vermont,Northeast,2.92
+2004,VT,Vermont,Northeast,7.21
+2005,VT,Vermont,Northeast,2.78
+2006,VT,Vermont,Northeast,7.43
+2007,VT,Vermont,Northeast,5.49
+2008,VT,Vermont,Northeast,5.74
+2009,VT,Vermont,Northeast,8.06
+2010,VT,Vermont,Northeast,11.5
+2011,VT,Vermont,Northeast,8.59
+2012,VT,Vermont,Northeast,2.64
+2013,VT,Vermont,Northeast,6.27
+2014,VT,Vermont,Northeast,4.82
+2015,VT,Vermont,Northeast,2.35
+2016,VT,Vermont,Northeast,5.43
+2017,VT,Vermont,Northeast,2.81
+2018,VT,Vermont,Northeast,4.62
+2019,VT,Vermont,Northeast,6.13
+2020,VT,Vermont,Northeast,9.45
+2021,VT,Vermont,Northeast,6.61
+2022,VT,Vermont,Northeast,2.92
+2023,VT,Vermont,Northeast,4.45
+2024,VT,Vermont,Northeast,3.45
+2000,VA,Virginia,South,5.15
+2001,VA,Virginia,South,3.84
+2002,VA,Virginia,South,5.18
+2003,VA,Virginia,South,4.22
+2004,VA,Virginia,South,5.32
+2005,VA,Virginia,South,5.48
+2006,VA,Virginia,South,5.35
+2007,VA,Virginia,South,5.48
+2008,VA,Virginia,South,5.37
+2009,VA,Virginia,South,8.58
+2010,VA,Virginia,South,10.58
+2011,VA,Virginia,South,6.99
+2012,VA,Virginia,South,5.93
+2013,VA,Virginia,South,5.24
+2014,VA,Virginia,South,6.74
+2015,VA,Virginia,South,6.45
+2016,VA,Virginia,South,3.84
+2017,VA,Virginia,South,4.95
+2018,VA,Virginia,South,2.72
+2019,VA,Virginia,South,4.91
+2020,VA,Virginia,South,10.77
+2021,VA,Virginia,South,7.1
+2022,VA,Virginia,South,6.06
+2023,VA,Virginia,South,4.21
+2024,VA,Virginia,South,2.69
+2000,WA,Washington,West,5.63
+2001,WA,Washington,West,5.19
+2002,WA,Washington,West,6.02
+2003,WA,Washington,West,5.89
+2004,WA,Washington,West,6.16
+2005,WA,Washington,West,4.09
+2006,WA,Washington,West,6.34
+2007,WA,Washington,West,4.13
+2008,WA,Washington,West,5.83
+2009,WA,Washington,West,10.4
+2010,WA,Washington,West,9.2
+2011,WA,Washington,West,5.61
+2012,WA,Washington,West,7.9
+2013,WA,Washington,West,6.28
+2014,WA,Washington,West,6.3
+2015,WA,Washington,West,4.78
+2016,WA,Washington,West,4.98
+2017,WA,Washington,West,4.04
+2018,WA,Washington,West,3.3
+2019,WA,Washington,West,8.22
+2020,WA,Washington,West,9.73
+2021,WA,Washington,West,5.02
+2022,WA,Washington,West,3.57
+2023,WA,Washington,West,7.11
+2024,WA,Washington,West,5.54
+2000,WV,West Virginia,South,5.49
+2001,WV,West Virginia,South,7.05
+2002,WV,West Virginia,South,3.84
+2003,WV,West Virginia,South,7.01
+2004,WV,West Virginia,South,5.55
+2005,WV,West Virginia,South,4.92
+2006,WV,West Virginia,South,5.28
+2007,WV,West Virginia,South,6.91
+2008,WV,West Virginia,South,8.93
+2009,WV,West Virginia,South,8.67
+2010,WV,West Virginia,South,10.34
+2011,WV,West Virginia,South,7.38
+2012,WV,West Virginia,South,7.18
+2013,WV,West Virginia,South,6.75
+2014,WV,West Virginia,South,3.61
+2015,WV,West Virginia,South,4.81
+2016,WV,West Virginia,South,6.43
+2017,WV,West Virginia,South,3.15
+2018,WV,West Virginia,South,4.91
+2019,WV,West Virginia,South,7.59
+2020,WV,West Virginia,South,9.14
+2021,WV,West Virginia,South,6.25
+2022,WV,West Virginia,South,5.32
+2023,WV,West Virginia,South,6.33
+2024,WV,West Virginia,South,3.53
+2000,WI,Wisconsin,Midwest,6.52
+2001,WI,Wisconsin,Midwest,5.61
+2002,WI,Wisconsin,Midwest,6.54
+2003,WI,Wisconsin,Midwest,6.47
+2004,WI,Wisconsin,Midwest,5.55
+2005,WI,Wisconsin,Midwest,5.67
+2006,WI,Wisconsin,Midwest,3.23
+2007,WI,Wisconsin,Midwest,3.78
+2008,WI,Wisconsin,Midwest,4.95
+2009,WI,Wisconsin,Midwest,7.46
+2010,WI,Wisconsin,Midwest,9.99
+2011,WI,Wisconsin,Midwest,5.83
+2012,WI,Wisconsin,Midwest,5.56
+2013,WI,Wisconsin,Midwest,3.62
+2014,WI,Wisconsin,Midwest,3.16
+2015,WI,Wisconsin,Midwest,6.42
+2016,WI,Wisconsin,Midwest,4.88
+2017,WI,Wisconsin,Midwest,6.52
+2018,WI,Wisconsin,Midwest,6.02
+2019,WI,Wisconsin,Midwest,5.17
+2020,WI,Wisconsin,Midwest,8.63
+2021,WI,Wisconsin,Midwest,8.36
+2022,WI,Wisconsin,Midwest,4.16
+2023,WI,Wisconsin,Midwest,3.3
+2024,WI,Wisconsin,Midwest,5.26
+2000,WY,Wyoming,West,5.11
+2001,WY,Wyoming,West,5.1
+2002,WY,Wyoming,West,4.97
+2003,WY,Wyoming,West,5.67
+2004,WY,Wyoming,West,4.45
+2005,WY,Wyoming,West,4.43
+2006,WY,Wyoming,West,5.42
+2007,WY,Wyoming,West,5.24
+2008,WY,Wyoming,West,6.86
+2009,WY,Wyoming,West,7.22
+2010,WY,Wyoming,West,8.52
+2011,WY,Wyoming,West,6.19
+2012,WY,Wyoming,West,7.16
+2013,WY,Wyoming,West,3.21
+2014,WY,Wyoming,West,4.73
+2015,WY,Wyoming,West,3.51
+2016,WY,Wyoming,West,4.79
+2017,WY,Wyoming,West,5.19
+2018,WY,Wyoming,West,2.63
+2019,WY,Wyoming,West,5.6
+2020,WY,Wyoming,West,8.42
+2021,WY,Wyoming,West,7.26
+2022,WY,Wyoming,West,3.78
+2023,WY,Wyoming,West,2.51
+2024,WY,Wyoming,West,3.41

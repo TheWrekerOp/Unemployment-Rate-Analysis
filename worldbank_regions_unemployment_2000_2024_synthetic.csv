@@ -1,0 +1,176 @@
+year,wb_region,unemp_rate
+2000,East Asia & Pacific,4.73
+2001,East Asia & Pacific,4.79
+2002,East Asia & Pacific,4.76
+2003,East Asia & Pacific,4.27
+2004,East Asia & Pacific,4.45
+2005,East Asia & Pacific,4.92
+2006,East Asia & Pacific,4.38
+2007,East Asia & Pacific,4.66
+2008,East Asia & Pacific,4.89
+2009,East Asia & Pacific,5.1
+2010,East Asia & Pacific,5.48
+2011,East Asia & Pacific,4.99
+2012,East Asia & Pacific,4.8
+2013,East Asia & Pacific,4.82
+2014,East Asia & Pacific,4.95
+2015,East Asia & Pacific,5.09
+2016,East Asia & Pacific,4.73
+2017,East Asia & Pacific,4.67
+2018,East Asia & Pacific,4.55
+2019,East Asia & Pacific,5.79
+2020,East Asia & Pacific,6.69
+2021,East Asia & Pacific,5.18
+2022,East Asia & Pacific,4.82
+2023,East Asia & Pacific,4.89
+2024,East Asia & Pacific,5.11
+2000,Europe & Central Asia,6.85
+2001,Europe & Central Asia,6.44
+2002,Europe & Central Asia,6.44
+2003,Europe & Central Asia,6.58
+2004,Europe & Central Asia,6.38
+2005,Europe & Central Asia,6.68
+2006,Europe & Central Asia,6.88
+2007,Europe & Central Asia,6.96
+2008,Europe & Central Asia,6.93
+2009,Europe & Central Asia,7.29
+2010,Europe & Central Asia,7.7
+2011,Europe & Central Asia,6.78
+2012,Europe & Central Asia,7.07
+2013,Europe & Central Asia,7.03
+2014,Europe & Central Asia,6.81
+2015,Europe & Central Asia,6.66
+2016,Europe & Central Asia,6.99
+2017,Europe & Central Asia,6.73
+2018,Europe & Central Asia,6.96
+2019,Europe & Central Asia,7.74
+2020,Europe & Central Asia,8.84
+2021,Europe & Central Asia,7.7
+2022,Europe & Central Asia,7.01
+2023,Europe & Central Asia,6.77
+2024,Europe & Central Asia,7.05
+2000,Latin America & Caribbean,7.94
+2001,Latin America & Caribbean,7.66
+2002,Latin America & Caribbean,8.06
+2003,Latin America & Caribbean,8.09
+2004,Latin America & Caribbean,8.03
+2005,Latin America & Caribbean,7.69
+2006,Latin America & Caribbean,8.45
+2007,Latin America & Caribbean,8.62
+2008,Latin America & Caribbean,8.99
+2009,Latin America & Caribbean,9.17
+2010,Latin America & Caribbean,8.56
+2011,Latin America & Caribbean,8.56
+2012,Latin America & Caribbean,8.15
+2013,Latin America & Caribbean,8.92
+2014,Latin America & Caribbean,8.26
+2015,Latin America & Caribbean,8.58
+2016,Latin America & Caribbean,8.05
+2017,Latin America & Caribbean,8.16
+2018,Latin America & Caribbean,8.37
+2019,Latin America & Caribbean,9.39
+2020,Latin America & Caribbean,10.65
+2021,Latin America & Caribbean,9.33
+2022,Latin America & Caribbean,8.13
+2023,Latin America & Caribbean,8.86
+2024,Latin America & Caribbean,8.37
+2000,Middle East & North Africa,10.2
+2001,Middle East & North Africa,10.29
+2002,Middle East & North Africa,10.05
+2003,Middle East & North Africa,10.11
+2004,Middle East & North Africa,9.57
+2005,Middle East & North Africa,10.55
+2006,Middle East & North Africa,10.01
+2007,Middle East & North Africa,10.4
+2008,Middle East & North Africa,10.32
+2009,Middle East & North Africa,10.77
+2010,Middle East & North Africa,10.28
+2011,Middle East & North Africa,10.17
+2012,Middle East & North Africa,10.09
+2013,Middle East & North Africa,10.14
+2014,Middle East & North Africa,10.44
+2015,Middle East & North Africa,10.23
+2016,Middle East & North Africa,10.19
+2017,Middle East & North Africa,10.16
+2018,Middle East & North Africa,10.71
+2019,Middle East & North Africa,10.77
+2020,Middle East & North Africa,12.51
+2021,Middle East & North Africa,10.47
+2022,Middle East & North Africa,10.07
+2023,Middle East & North Africa,10.38
+2024,Middle East & North Africa,10.26
+2000,North America,6.15
+2001,North America,6.07
+2002,North America,5.06
+2003,North America,5.19
+2004,North America,5.45
+2005,North America,5.94
+2006,North America,5.84
+2007,North America,5.83
+2008,North America,5.78
+2009,North America,6.18
+2010,North America,5.5
+2011,North America,5.44
+2012,North America,5.79
+2013,North America,5.87
+2014,North America,5.37
+2015,North America,5.74
+2016,North America,6.14
+2017,North America,5.8
+2018,North America,5.73
+2019,North America,6.67
+2020,North America,7.95
+2021,North America,6.58
+2022,North America,5.76
+2023,North America,5.77
+2024,North America,5.92
+2000,South Asia,5.06
+2001,South Asia,5.56
+2002,South Asia,5.47
+2003,South Asia,5.54
+2004,South Asia,5.79
+2005,South Asia,5.7
+2006,South Asia,5.72
+2007,South Asia,5.64
+2008,South Asia,5.88
+2009,South Asia,6.76
+2010,South Asia,5.81
+2011,South Asia,5.47
+2012,South Asia,5.27
+2013,South Asia,5.53
+2014,South Asia,5.6
+2015,South Asia,5.77
+2016,South Asia,5.48
+2017,South Asia,5.12
+2018,South Asia,5.69
+2019,South Asia,6.56
+2020,South Asia,7.63
+2021,South Asia,6.33
+2022,South Asia,5.83
+2023,South Asia,6.04
+2024,South Asia,5.68
+2000,Sub-Saharan Africa,6.95
+2001,Sub-Saharan Africa,7.18
+2002,Sub-Saharan Africa,7.3
+2003,Sub-Saharan Africa,6.91
+2004,Sub-Saharan Africa,7.58
+2005,Sub-Saharan Africa,7.22
+2006,Sub-Saharan Africa,7.59
+2007,Sub-Saharan Africa,7.69
+2008,Sub-Saharan Africa,7.95
+2009,Sub-Saharan Africa,8.7
+2010,Sub-Saharan Africa,7.93
+2011,Sub-Saharan Africa,7.56
+2012,Sub-Saharan Africa,7.66
+2013,Sub-Saharan Africa,7.78
+2014,Sub-Saharan Africa,7.59
+2015,Sub-Saharan Africa,7.37
+2016,Sub-Saharan Africa,7.81
+2017,Sub-Saharan Africa,7.81
+2018,Sub-Saharan Africa,8.23
+2019,Sub-Saharan Africa,8.36
+2020,Sub-Saharan Africa,9.77
+2021,Sub-Saharan Africa,8.32
+2022,Sub-Saharan Africa,7.42
+2023,Sub-Saharan Africa,7.8
+2024,Sub-Saharan Africa,8.01
